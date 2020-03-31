@@ -1,6 +1,3 @@
 Belajar:
 1. github
-2. git
-3. Framework:
- > Codeigniter
- > Laravel
+2. Framework:
