@@ -1,7 +1,3 @@
 Belajar:
 1. github
 2. Framework:
- > Codeigniter
- > Laravel
-3. Javascript:
- > React
